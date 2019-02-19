@@ -65,7 +65,7 @@ This is by no means exhaustive. If you have any suggestions/improvements, simply
  * [fast.ai](http://course.fast.ai/) - Deep Learning with only prerequisite being general coding skills.
  * [TunedIT](http://tunedit.org/data-competitions) - Data Mining competitions.
  * [Data Science Central](https://www.datasciencecentral.com/) - the online resource for big data practitioners.
- * [KPMG Data Science Virtual Internship](https://www.insidesherpa.com/virtual-internships/theme/m7W4GMqeT3bh9Nb2c/KPMG-Data-Analytics-Virtual-Internship) - learn data science from a Big 4 accounting firm and how it's used in industry.
+ * [KPMG Data Science Virtual Internship](https://www.insidesherpa.com/virtual-internships/theme/m7W4GMqeT3bh9Nb2c/KPMG-Data-Analytics-Virtual-Internship?ref=github) - learn data science from a Big 4 accounting firm and how it's used in industry.
 
  ### Artificial Intelligence
 
@@ -95,6 +95,7 @@ This is by no means exhaustive. If you have any suggestions/improvements, simply
 
  ### Security
  * [HackTheBox](https://hackthebox.eu/) - Online penetration testing labs.
+ * [McGrathNicol Technology Virtual Internship](https://www.insidesherpa.com/show-firm-programs/oiHtSBFcPM2KnaEGJ/McGrathNicol?ref=github) - An online experience of incident response
  * [VulnHub](https://www.vulnhub.com/) - Hands-on environment for learning digital security, computer software & network administration
  * [Awesome Pentest Github Repository](https://github.com/enaqx/awesome-pentest) - A curated directory of security related resources
 
@@ -123,7 +124,7 @@ This is by no means exhaustive. If you have any suggestions/improvements, simply
 * [Pluralsight](https://www.pluralsight.com/) - Paid learing platform made to help you build your carreer or land a job.
 * [Khan Academy](https://www.khanacademy.org/) - Free online learing platform.
 * [Sololearn](https://www.sololearn.com/) - Learn coding from the ground up for free!! (also availabel on android)
-* [Y Combinator](https://www.insidesherpa.com/virtual-internships/prototype/oRMogWRHeewqHzA7u/College-students%3A-Learn-how-to-work-at-a-YC-startup-) - Learn how engineering works at a Y Combinator startup
+* [Y Combinator](https://www.insidesherpa.com/virtual-internships/prototype/oRMogWRHeewqHzA7u/College-students%3A-Learn-how-to-work-at-a-YC-startup-?ref=github) - Learn how engineering works at a Y Combinator startup
 
 ## Programming Platforms
 

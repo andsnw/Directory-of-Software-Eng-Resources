@@ -1,5 +1,5 @@
-# Curated Directory of Computer Science Resources
-After searching the internet high & low, here's my list of curated computer science resources. 
+# Curated Directory of Software Engineering Resources
+After searching the internet high & low, here's my list of curated software engineering resources. 
 
 This is by no means exhaustive. If you have any suggestions/improvements, simply create a pull request and follow the same structure.
 

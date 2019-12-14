@@ -3,6 +3,10 @@ After searching the internet high & low, here's my list of curated software engi
 
 This is by no means exhaustive. If you have any suggestions/improvements, simply create a pull request and follow the same structure.
 
+Sponsored by:
+[![Codugh Logo](https://www.codugh.com/images/logo.png)](https://www.codugh.com/?utm_source=github)
+**The Developer API Marketplace** - List and earn from your API when developers use it.
+
 ## Contents
 
  - [Education](#education)

@@ -5,9 +5,9 @@ This is by no means exhaustive. If you have any suggestions/improvements, simply
 
 Sponsored by:
 
-[![Codugh Logo](https://www.codugh.com/images/logo.png)
+[![Codugh Logo](https://www.codugh.com/images/logo.png)](https://www.codugh.com/?utm_source=github)
 
-**The Developer API Marketplace** - List and earn from your API when developers use it.](https://www.codugh.com/?utm_source=github)
+[**The Developer API Marketplace** - List and earn from your API when developers use it.](https://www.codugh.com/?utm_source=github)
 
 
 ## Contents

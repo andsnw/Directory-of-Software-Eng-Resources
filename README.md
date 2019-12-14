@@ -20,7 +20,7 @@ This is by no means exhaustive. If you have any suggestions/improvements, simply
  - [Programming Events](#programming-events)
  - [Hackathons](#hackathons)
  - [Technical Interviews](#technical-interviews) 
- - [Products, Opportunities & Discounts](#products,-opportunities-&-discounts)
+ - [Products, Opportunities & Discounts](#products-opportunities--discounts)
 
 ## Education
 
@@ -203,6 +203,7 @@ This is by no means exhaustive. If you have any suggestions/improvements, simply
 
 [Back to Top](#contents)
 
+* [Codugh API Marketplace](https://www.codugh.com/?utm_source=github) - Earn from your API when developers use it.
 * [Github Student Pack](https://education.github.com/pack) - Get free access to the best developer tools in one place.
 * [Visual Studio Dev Essentials](https://www.visualstudio.com/dev-essentials/) - Free learning resources and programming tools.
 * [Student Discounts in Tech](https://www.eggradients.com/discount-for-students) - A list of student discounts for tech related products
